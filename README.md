@@ -1,2 +1,2 @@
 # Variant-graph-analysis
-Measuring pairwise distances between population graphs built from variant data from the 1000 genomes project.
+Measuring pairwise distances between population graphs built from variant data from the 1000 genomes project. Variants can be coupled with genotype information from individuals using the VCF file format. In this project, VCF data is used to calculate the distance between six different human populations, all downloaded from http://www.internationalgenome.org/data-portal/population.
