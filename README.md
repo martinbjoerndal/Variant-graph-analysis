@@ -3,7 +3,7 @@ Measuring pairwise distances between population graphs built from variant data f
 
 Three distance metrics are employed. The R-program calculateDist.r computes bubble counter distance and Bayes factor distance. two distance measures for input written by readData.r
 
-GedevoGraph.java creates two objects of class Graph based on VCF input. It outputs a list of edges which may be used by   GEDEVO[1][2] to calculate graph edit distance, or the R-package igraph to draw the graph.
+GedevoGraph.java creates two objects of class Graph based on VCF input. It outputs a list of edges which may be used by   GEDEVO[1,2] to calculate graph edit distance, or the R-package igraph to draw the graph.
 
 [1] Rashid Ibragimov, Maximilian Malek, Jiong Guo, Jan Baumbach: GEDEVO: An Evolutionary Graph Edit Distance Algorithm for Biological Network Alignment. GCB 2013:68-79
 
