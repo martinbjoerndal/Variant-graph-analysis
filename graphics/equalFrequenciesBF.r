@@ -1,5 +1,5 @@
 ##############################################################################
-# BF_equalFrequencies.r
+# equalFrequenciesBF.r
 #
 # Analyses for master thesis
 # ======================================
